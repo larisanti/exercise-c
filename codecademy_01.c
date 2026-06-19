@@ -2,7 +2,7 @@
 Curso:
 Learn C (Codecademy)
 
-Objetivos:
+Objetivo:
 - Hello world em C
 
 Notes:
