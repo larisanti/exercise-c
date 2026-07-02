@@ -10,6 +10,10 @@ Notes:
 - não existe índice negativo em C
 - se usar valor negativo: acessa pedaço aleatório na memória
 - não apresenta index error se modificar o tamanho do array
+
+- NÃO CONFUNDIR COM a regra de tipos inteiros:
+    - signed int -> pode ser negativo
+    - unsigned int -> apenas positivo
 */
 
 #include <stdio.h>
