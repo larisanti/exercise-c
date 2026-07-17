@@ -12,7 +12,7 @@ Notes:
 - steps:
   1. define a struct
   2. define o ponteiro
-  3. assign o endereço do ponteiro à variável (&variable)
+  3. atribui o endereço da variável ao ponteiro (&variable)
 */
 
 #include <stdio.h>
