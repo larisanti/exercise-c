@@ -3,6 +3,7 @@ Curso:
 Learn C (Codecademy)
 
 Objetivo:
+Criar ponteiro e imprimir seu endereço na memória.
 
 Notes:
 - pointer = "point" to the variable (endereço em hex)
